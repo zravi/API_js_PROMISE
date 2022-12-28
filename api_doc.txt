@@ -1,0 +1,10 @@
+-> User's API
+
+* to store record in database
+
+url : http://localhost:3000/user/save
+method : post
+
+data attached : name , email , password , mobile , address , city , gender    
+
+promise:-- is an object that encapsulates the result of an asynchronous operation
